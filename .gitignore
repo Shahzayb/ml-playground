@@ -1,0 +1,17 @@
+# Python environments
+.conda/
+env/
+venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# VS Code settings (optional, if you don't want to share project-specific settings)
+.vscode/
+
+# Jupyter/IPython generated files
+.ipynb_checkpoints/
+
+.DS_Store
